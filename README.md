@@ -2,7 +2,7 @@
 
 Experienced in building scalable web applications. Strong knowledge of **Java**, **Git**, **Maven**, and **Gradle**.  
 Skilled in technologies like **Spring**, **Spring Boot**, **Spring Web**, **Spring Data**, **Spring Security**, **Lombok**, **MapStruct**, **PostgreSQL**, **Liquibase**, and **Swagger**.  
-Familiar with testing utilities like **JUnit** and **H2**.  
+Familiar with testing utilities like **Spring Test**, **JUnit** and **H2**.  
 Proficient in containerization using **Docker** and **Docker Compose**.  
 
 Currently expanding my knowledge in **microservices architecture**, using tools like **Spring Cloud**, **WebFlux**, **Eureka**, **Resilience4j**, **Redis**, and **MinIO** through my own online-shop project **NanoMarket**.  
