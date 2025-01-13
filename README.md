@@ -1,16 +1,17 @@
-## Hi there 👋
+### **Java Developer | Microservices Learner | Exploring Modern Web Development**  
 
-<!--
-**RylovK/RylovK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Experienced in building scalable web applications. Strong knowledge of **Java**, **Git**, **Maven**, and **Gradle**.  
+Skilled in technologies like **Spring**, **Spring Boot**, **Spring Web**, **Spring Data**, **Spring Security**, **Lombok**, **MapStruct**, **PostgreSQL**, **Liquibase**, and **Swagger**.  
+Familiar with testing utilities like **JUnit** and **H2**.  
+Proficient in containerization using **Docker** and **Docker Compose**.  
 
-Here are some ideas to get you started:
+Currently expanding my knowledge in **microservices architecture**, using tools like **Spring Cloud**, **WebFlux**, **Eureka**, **Resilience4j**, **Redis**, and **MinIO** through my own online-shop project **NanoMarket**.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Connect with me 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kirill-rylov)  
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/korvalolo)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rylov.k@gmail.com)  
+
