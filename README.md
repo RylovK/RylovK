@@ -1,4 +1,5 @@
 ### **Java Developer | Microservices Learner | Exploring Modern Web Development**  
+---
 
 Experienced in building scalable web applications. Strong knowledge of **Java**, **Git**, **Maven**, and **Gradle**.  
 Skilled in technologies like **Spring**, **Spring Boot**, **Spring Web**, **Spring Data**, **Spring Security**, **Lombok**, **MapStruct**, **PostgreSQL**, **Liquibase**, and **Swagger**.  
