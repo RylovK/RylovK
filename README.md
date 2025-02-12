@@ -1,4 +1,4 @@
-### **Java Developer | Microservices Learner**
+### **Java Developer**
 
 ---
 
