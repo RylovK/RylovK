@@ -2,10 +2,10 @@
 
 ---
 
-Experienced in developing scalable and reliable web applications with a strong foundation in **Java, Git, Maven, and Gradle**.
-Proficient in the **Spring ecosystem**, including **Spring Boot, Spring Web, Spring Data, Spring Security, Lombok, and MapStruct**.
-Hands-on experience with **PostgreSQL, NoSQL databases, Amazon S3, Liquibase, and Swagger/OpenAPI**.
-Skilled in writing unit and integration tests using **JUnit, Spring Test, and H2**.
+Experienced in developing scalable and reliable web applications with a strong foundation in **Java, Git, Maven, and Gradle**.  
+Proficient in the **Spring ecosystem**, including **Spring Boot, Spring Web, Spring Data, Spring Security, Lombok, and MapStruct**.  
+Hands-on experience with **PostgreSQL, NoSQL databases, Amazon S3, Liquibase, and Swagger/OpenAPI**.  
+Skilled in writing unit and integration tests using **JUnit, Spring Test, and H2**.  
 Experienced in containerization and environment management with **Docker and Docker Compose**.
 
 Currently deepening expertise in microservices architecture, leveraging **Spring Cloud, WebFlux**, and distributed system patterns.
