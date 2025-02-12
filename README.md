@@ -1,13 +1,14 @@
-### **Java Developer | Microservices Learner | Exploring Modern Web Development**  
+### **Java Developer | Microservices Learner**
 
 ---
 
-Experienced in building scalable web applications with a strong foundation in **Java**, **Git**, **Maven**, and **Gradle**.  
-Skilled in technologies such as **Spring**, **Spring Boot**, **Spring Web**, **Spring Data**, **Spring Security**, **Lombok**, **MapStruct**, **PostgreSQL**, **Liquibase**, and **Swagger**.  
-Familiar with testing frameworks and tools, including **Spring Test**, **JUnit**, and **H2**.  
-Proficient in containerization using **Docker** and **Docker Compose**.  
+Experienced in developing scalable and reliable web applications with a strong foundation in **Java, Git, Maven, and Gradle**.
+Proficient in the **Spring ecosystem**, including **Spring Boot, Spring Web, Spring Data, Spring Security, Lombok, and MapStruct**.
+Hands-on experience with **PostgreSQL, NoSQL databases, Amazon S3, Liquibase, and Swagger/OpenAPI**.
+Skilled in writing unit and integration tests using **JUnit, Spring Test, and H2**.
+Experienced in containerization and environment management with **Docker and Docker Compose**.
 
-Currently expanding my expertise in **microservices architecture**, utilizing tools like **Spring Cloud**, **WebFlux**, **Eureka**, **Resilience4j**, **Redis**, and **MinIO** through my online-shop project **NanoMarket**.  
+Currently deepening expertise in microservices architecture, leveraging **Spring Cloud, WebFlux**, and distributed system patterns.
 
 ---
 
